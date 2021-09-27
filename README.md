@@ -1,3 +1,3 @@
-# heatmaps-Google
+# heatmaps-google
 
 
