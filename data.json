@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "user_location": {
+                "lat": 0.5455048,
+                "lng":35.2387126
+            }
+        },
+
+        {
+            "user_id": 2,
+            "user_location": {
+                "lat": 0.5455048,
+                "lng":35.2387126
+            }
+        },
+
+        {
+            "user_id": 3,
+            "user_location": {
+                "lat": 0.5685048,
+                "lng":35.4387126
+            }
+        },
+
+        {
+            "user_id": 4,
+            "user_location": {
+                "lat": 0.6455048,
+                "lng":35.4387126
+            }
+        },
+        {
+            "user_id": 5,
+            "user_location": {
+                "lat": 0.7455048,
+                "lng":36.1387126
+            }
+        },
+        {
+            "user_id": 6,
+            "user_location": {
+                "lat": 0.7555048,
+                "lng":36.1387126
+            }
+        },
+        {
+            "user_id": 7,
+            "user_location": {
+                "lat": 0.5455048,
+                "lng":35.7387126
+            }
+        },
+        {
+            "user_id": 8,
+            "user_location": {
+                "lat": 0.5455048,
+                "lng":35.1887126
+            }
+        },
+        {
+            "user_id": 9,
+            "user_location": {
+                "lat": 0.5455048,
+                "lng":35.1387126
+            }
+        },
+        {
+            "user_id": 10,
+            "user_location": {
+                "lat": 0.5455048,
+                "lng":35.1387126
+            }
+        },
+        {
+            "user_id": 11,
+            "user_location": {
+                "lat": 0.5455048,
+                "lng":35.1387126
+            }
+        }
+    ]
+}
